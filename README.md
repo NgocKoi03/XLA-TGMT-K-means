@@ -1,1 +1,1 @@
-# XLA-TGMT-K-means
+# Trịnh Bá Ngọc - 20212523
